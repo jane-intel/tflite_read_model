@@ -1,0 +1,540 @@
+cartoongan$https://tfhub.dev/sayakpaul/lite-model/cartoongan/fp16/1?lite-format=tflite$CartoonGAN model to cartoonize a given image. TFLite (cartoongan/fp16)
+mobilenet_v1_0.25_192_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_192_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+movinet/a1/stream/kinetics-600/classification$https://tfhub.dev/tensorflow/lite-model/movinet/a1/stream/kinetics-600/classification/tflite/float16/2?lite-format=tflite$MoViNets (Mobile Video Networks) for efficient video classification with MoViNet-A1-Stream. TFLite (movinet/a1/stream/kinetics-600/classification/tflite/float16)
+arbitrary-image-stylization-inceptionv3-dynamic-shapes$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3-dynamic-shapes/dr/predict/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3-dynamic-shapes/dr/predict)
+deeplabv3$https://tfhub.dev/tensorflow/lite-model/deeplabv3/1/default/1?lite-format=tflite$Deep learning model for semantic image segmentation. TFLite (v1, default)
+mobilenetv2-coco$https://tfhub.dev/sayakpaul/lite-model/mobilenetv2-coco/dr/1?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (mobilenetv2-coco/dr)
+mobilenet_v1_0.25_160_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_160_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v1_100_224/fp32$https://tfhub.dev/iree/lite-model/mobilenet_v1_100_224/fp32/1?lite-format=tflite$Mobilenet V1 trained on Imagenet. TFLite (mobilenet_v1_100_224/fp32)
+efficientnet/lite3/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite3/fp32/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite3/fp32)
+mobilenet_v1_0.75_160_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_160_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+deeplabv3-mobilenetv3-cityscapes$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv3-cityscapes/1/default/2?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+mnasnet_0.50_224$https://tfhub.dev/tensorflow/lite-model/mnasnet_0.50_224/1/default/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, default)
+faster-rcnn-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/faster-rcnn-cppe5-lite/default/1?lite-format=tflite$The Faster RCNN model (with ResNet 101 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (faster-rcnn-cppe5-lite/default)
+ssd_mobilenet_v1_100_320/uint8$https://tfhub.dev/iree/lite-model/ssd_mobilenet_v1_100_320/uint8/default/1?lite-format=tflite$Mobilenet V1 with SSDLite head trained on COCO 2017, in `uint8`. TFLite (ssd_mobilenet_v1_100_320/uint8/default)
+smartreply$https://tfhub.dev/tensorflow/lite-model/smartreply/1/default/1?lite-format=tflite$Smart Reply model. TFLite (v1, default)
+ssd_spaghettinet_edgetpu_large_320/uint8$https://tfhub.dev/iree/lite-model/ssd_spaghettinet_edgetpu_large_320/uint8/nms/1?lite-format=tflite$Spaghettinet EdgeTPU Large trained on COCO 2017, in `uint8`. TFLite (ssd_spaghettinet_edgetpu_large_320/uint8/nms)
+deeplabv3-xception65-ade20k$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-xception65-ade20k/1/default/2?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+keras-ocr$https://tfhub.dev/tulasiram58827/lite-model/keras-ocr/float16/2?lite-format=tflite$OCR Model created with CRNN architecture used to recognize text from image. TFLite (keras-ocr/float16)
+edgetpu/vision/mobilenet-edgetpu-v2/m$https://tfhub.dev/google/lite-model/edgetpu/vision/mobilenet-edgetpu-v2/m/1?lite-format=tflite$MobileNet-EdgeTPU-v2 is a set of image classification models that are optimized
+for Pixel 6. TFLite (edgetpu/vision/mobilenet-edgetpu-v2/m)
+regnety200mf_classification$https://tfhub.dev/adityakane2001/lite-model/regnety200mf_classification/1?lite-format=tflite$RegNetY 200MF image classifier pretrained on ImageNet-1k. TFLite (regnety200mf_classification)
+mobilenet_v1_0.50_192$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_192/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+edgetpu/nlp/mobilebert-edgetpu/xs$https://tfhub.dev/google/lite-model/edgetpu/nlp/mobilebert-edgetpu/xs/1?lite-format=tflite$MobileBert-EdgeTPU is a set of language pretraining models that are optimized
+for Pixel 6. TFLite (edgetpu/nlp/mobilebert-edgetpu/xs)
+nasnet/mobile$https://tfhub.dev/tensorflow/lite-model/nasnet/mobile/1/metadata/1?lite-format=tflite$Image classification model based on NASNet-A. TFLite (v1, metadata)
+mobilenet_v1_0.25_192$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_192/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+arbitrary-image-stylization-inceptionv3$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/int8/predict/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3/int8/predict)
+plant-disease$https://tfhub.dev/rishit-dagli/lite-model/plant-disease/default/1?lite-format=tflite$Model to classify among 38 plant disease categories. TFLite (plant-disease/default)
+mnasnet_0.50_224$https://tfhub.dev/tensorflow/lite-model/mnasnet_0.50_224/1/metadata/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, metadata)
+aiy/vision/classifier/plants_V1$https://tfhub.dev/google/lite-model/aiy/vision/classifier/plants_V1/3?lite-format=tflite$Mobile plants classification model. TFLite (aiy/vision/classifier/plants_V1)
+mobilenet_v1_1.0_160_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_160_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mobilenet_v1_0.50_128_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_128_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mobilenet_v1_0.50_192_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_192_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mnasnet_1.0_192$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_192/1/metadata/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, metadata)
+edgetpu/vision/deeplab-edgetpu/fused_argmax/s$https://tfhub.dev/google/lite-model/edgetpu/vision/deeplab-edgetpu/fused_argmax/s/1?lite-format=tflite$Deeplab-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6. TFLite (edgetpu/vision/deeplab-edgetpu/fused_argmax/s)
+cartoongan$https://tfhub.dev/sayakpaul/lite-model/cartoongan/dr/1?lite-format=tflite$CartoonGAN model to cartoonize a given image. TFLite (cartoongan/dr)
+regnety600mf_classification$https://tfhub.dev/adityakane2001/lite-model/regnety600mf_classification/1?lite-format=tflite$RegNetY 600MF image classifier pretrained on ImageNet-1k. TFLite (regnety600mf_classification)
+mobilenet_v1_0.50_128_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_128_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v1_0.25_160_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_160_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+inception_v1_quant$https://tfhub.dev/tensorflow/lite-model/inception_v1_quant/1/default/1?lite-format=tflite$Image classification model based on Inception v1. TFLite (v1, default)
+mobilenet_v1_0.50_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_224_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mnasnet_1.0_224$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_224/1/default/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, default)
+mobilenet_v1_0.25_128_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_128_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+ssd_spaghettinet_edgetpu_large_320/fp32$https://tfhub.dev/iree/lite-model/ssd_spaghettinet_edgetpu_large_320/fp32/nms/1?lite-format=tflite$Spaghettinet EdgeTPU Large trained on COCO 2017, in `fp32`. TFLite (ssd_spaghettinet_edgetpu_large_320/fp32/nms)
+efficientnet/lite2/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite2/int8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite2/int8)
+mobilenet_v2_1.0_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v2_1.0_224/1/default/1?lite-format=tflite$MobileNet V2 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mobilenet_v1_0.25_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_224/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenetv2-coco$https://tfhub.dev/sayakpaul/lite-model/mobilenetv2-coco/fp16/1?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (mobilenetv2-coco/fp16)
+aiy/vision/classifier/birds_V1$https://tfhub.dev/google/lite-model/aiy/vision/classifier/birds_V1/3?lite-format=tflite$Mobile bird classification model. TFLite (aiy/vision/classifier/birds_V1)
+edgetpu/vision/deeplab-edgetpu/fused_argmax/xs$https://tfhub.dev/google/lite-model/edgetpu/vision/deeplab-edgetpu/fused_argmax/xs/1?lite-format=tflite$Deeplab-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6. TFLite (edgetpu/vision/deeplab-edgetpu/fused_argmax/xs)
+mobilenet_v1_0.75_128_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_128_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mnasnet_1.0_96$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_96/1/default/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, default)
+fcos-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/fcos-cppe5-lite/fp16/1?lite-format=tflite$The FCOS model (with ResNet 101 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (fcos-cppe5-lite/fp16)
+squeezenet$https://tfhub.dev/tensorflow/lite-model/squeezenet/1/metadata/1?lite-format=tflite$Image classification model based on SqueezeNet. TFLite (v1, metadata)
+efficientnet/lite3/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite3/int8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite3/int8)
+mobilenet_v1_0.50_160_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_160_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+deeplabv3-xception65-cityscapes$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-xception65-cityscapes/1/default/2?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+edgetpu/vision/deeplab-edgetpu/default_argmax/m$https://tfhub.dev/google/lite-model/edgetpu/vision/deeplab-edgetpu/default_argmax/m/1?lite-format=tflite$Deeplab-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6. TFLite (edgetpu/vision/deeplab-edgetpu/default_argmax/m)
+arbitrary-image-stylization-inceptionv3-dynamic-shapes$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3-dynamic-shapes/int8/transfer/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3-dynamic-shapes/int8/transfer)
+mobilenet_v1_0.75_192$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_192/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+ssd-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/ssd-cppe5-lite/fp16/1?lite-format=tflite$The SSD model (with MobileNet backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (ssd-cppe5-lite/fp16)
+ssd_mobilenet_v2_fpn_100/fp32$https://tfhub.dev/iree/lite-model/ssd_mobilenet_v2_fpn_100/fp32/default/1?lite-format=tflite$Mobilenet V2 with FPNLite head trained on COCO 2017, in `fp32`. TFLite (ssd_mobilenet_v2_fpn_100/fp32/default)
+regnety200mf_feature_extractor$https://tfhub.dev/adityakane2001/lite-model/regnety200mf_feature_extractor/1?lite-format=tflite$RegNetY 200MF feature extractor pretrained on ImageNet-1k. TFLite (regnety200mf_feature_extractor)
+deeplabv3-mobilenetv2$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv2/1/default/1?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+object_detection/mobile_object_localizer_v1$https://tfhub.dev/google/lite-model/object_detection/mobile_object_localizer_v1/1/metadata/2?lite-format=tflite$A class-agnostic mobile object detector. TFLite (v1, metadata)
+efficientdet/lite0/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite0/detection/default/1?lite-format=tflite$EfficientDet-Lite0 Object detection model (EfficientNet-Lite0 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite0/detection/default)
+mobilenet_v3_small_100_224/uint8$https://tfhub.dev/iree/lite-model/mobilenet_v3_small_100_224/uint8/1?lite-format=tflite$Mobilenet V3 Small trained on Imagenet. TFLite (mobilenet_v3_small_100_224/uint8)
+east-text-detector$https://tfhub.dev/sayakpaul/lite-model/east-text-detector/dr/1?lite-format=tflite$EAST model for text detection from natural scenes. TFLite (east-text-detector/dr)
+mobilenet_v1_0.75_160$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_160/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+inception_v4_quant$https://tfhub.dev/tensorflow/lite-model/inception_v4_quant/1/default/1?lite-format=tflite$Image classification model based on Inception v4. TFLite (v1, default)
+mobilenet_v1_0.75_128$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_128/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v1_1.0_128_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_128_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mobilenet_v1_0.25_192_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_192_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v1_1.0_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_224/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v1_0.50_192_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_192_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+imagenet/mobilenet_v3_large_100_224/feature_vector$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_large_100_224/feature_vector/5/default/1?lite-format=tflite$Feature vectors of images with MobileNet V3 large(depth multiplier 1.00) trained on ImageNet (ILSVRC-2012-CLS). TFLite (v5, default)
+mobilenet_v1_1.0_192$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_192/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+rosetta$https://tfhub.dev/tulasiram58827/lite-model/rosetta/float16/1?lite-format=tflite$TFLite Model of Rosetta Text Recognition(OCR) Module(ResNet+CTC). TFLite (rosetta/float16)
+imagenet/mobilenet_v3_large_075_224/feature_vector$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_large_075_224/feature_vector/5/metadata/1?lite-format=tflite$Feature vectors of images with MobileNet V3 large(depth multiplier 0.75) trained on ImageNet (ILSVRC-2012-CLS). TFLite (v5, metadata)
+edgetpu/vision/autoseg-edgetpu/fused_argmax/s$https://tfhub.dev/google/lite-model/edgetpu/vision/autoseg-edgetpu/fused_argmax/s/1?lite-format=tflite$Autoseg-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6 leveraging neural architecture search algorithms. TFLite (edgetpu/vision/autoseg-edgetpu/fused_argmax/s)
+inception_resnet_v2$https://tfhub.dev/tensorflow/lite-model/inception_resnet_v2/1/metadata/1?lite-format=tflite$Image classification model based on Inception ResNet V2. TFLite (v1, metadata)
+mobilenet_v1_0.50_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_224/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+efficientnet/lite4/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite4/uint8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite4/uint8)
+mobilenet_v1_0.50_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_224/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+esrgan-tf2$https://tfhub.dev/captain-pool/lite-model/esrgan-tf2/1?lite-format=tflite$Enhanced Super Resolution GAN (Wang et. al.)[1] for image super resolution.
+Produces x4 Super Resolution Image from images of {Height, Width} >=64.
+Works best on Bicubically downsampled images.\
+(*This is because, the model is originally trained on Bicubically Downsampled DIV2K Dataset*) TFLite (esrgan-tf2)
+fcos-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/fcos-cppe5-lite/default/1?lite-format=tflite$The FCOS model (with ResNet 101 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (fcos-cppe5-lite/default)
+efficientdet/lite1/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite1/detection/metadata/1?lite-format=tflite$EfficientDet-Lite1 Object detection model (EfficientNet-Lite1 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite1/detection/metadata)
+densenet$https://tfhub.dev/tensorflow/lite-model/densenet/1/default/1?lite-format=tflite$Image classification model based on DenseNet. TFLite (v1, default)
+mobilenet_v1_0.25_128$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_128/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+deeplabv3$https://tfhub.dev/tensorflow/lite-model/deeplabv3/1/metadata/2?lite-format=tflite$Deep learning model for semantic image segmentation. TFLite (v1, metadata)
+inception_resnet_v2$https://tfhub.dev/tensorflow/lite-model/inception_resnet_v2/1/default/1?lite-format=tflite$Image classification model based on Inception ResNet V2. TFLite (v1, default)
+imagenet/mobilenet_v3_small_100_224/feature_vector$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_small_100_224/feature_vector/5/default/1?lite-format=tflite$Feature vectors of images with MobileNet V3 small(depth multiplier 1.00) trained on ImageNet (ILSVRC-2012-CLS). TFLite (v5, default)
+magenta/arbitrary-image-stylization-v1-256$https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/int8/transfer/1?lite-format=tflite$Fast arbitrary image style transfer. TFLite (magenta/arbitrary-image-stylization-v1-256/int8/transfer)
+mobilenet_v1_0.75_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_224/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+edgetpu/vision/mobilenet-edgetpu-v2/xs$https://tfhub.dev/google/lite-model/edgetpu/vision/mobilenet-edgetpu-v2/xs/1?lite-format=tflite$MobileNet-EdgeTPU-v2 is a set of image classification models that are optimized
+for Pixel 6. TFLite (edgetpu/vision/mobilenet-edgetpu-v2/xs)
+yamnet/classification$https://tfhub.dev/google/lite-model/yamnet/classification/tflite/1?lite-format=tflite$A quantized audio event classifier trained on the AudioSet dataset to predict
+audio events from the AudioSet ontology. TFLite (yamnet/classification/tflite)
+efficientnet/lite0/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite0/uint8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite0/uint8)
+movenet/singlepose/thunder$https://tfhub.dev/google/lite-model/movenet/singlepose/thunder/3?lite-format=tflite$A convolutional neural network model that runs on RGB images and predicts human
+joint locations of a single person. The model is designed to be run in the
+browser using Tensorflow.js or on devices using TF Lite in real-time, targeting
+movement/fitness activities. This variant: MoveNet.SinglePose.Thunder is a
+higher capacity model (compared to MoveNet.SinglePose.Lightning) that performs
+better prediction quality while still achieving real-time (>30FPS) speed.
+Naturally, thunder will lag behind the lightning, but it will pack a punch. TFLite (movenet/singlepose/thunder)
+mobilenet_v1_1.0_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_224_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v1_0.25_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_224_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+edgetpu/vision/mobilenet-edgetpu-v2/s$https://tfhub.dev/google/lite-model/edgetpu/vision/mobilenet-edgetpu-v2/s/1?lite-format=tflite$MobileNet-EdgeTPU-v2 is a set of image classification models that are optimized
+for Pixel 6. TFLite (edgetpu/vision/mobilenet-edgetpu-v2/s)
+resnet_v2_101$https://tfhub.dev/tensorflow/lite-model/resnet_v2_101/1/metadata/1?lite-format=tflite$Image classification model based on ResNet V2. TFLite (v1, metadata)
+east-text-detector$https://tfhub.dev/sayakpaul/lite-model/east-text-detector/fp16/1?lite-format=tflite$EAST model for text detection from natural scenes. TFLite (east-text-detector/fp16)
+ASR_TFLite/pre_trained_models$https://tfhub.dev/neso613/lite-model/ASR_TFLite/pre_trained_models/English/1?lite-format=tflite$Conformer: Convolution-augmented Transformer for Speech Recognition trained on [LibriSpeech](http://www.openslr.org/12) dataset. TFLite (ASR_TFLite/pre_trained_models/English)
+mobilenet_v1_1.0_128_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_128_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+fastspeech2$https://tfhub.dev/tulasiram58827/lite-model/fastspeech2/dr/1?lite-format=tflite$FastSpeech2: Fast and High-Quality End-to-End Text to Speech TFLite (fastspeech2/dr)
+mobilenet_v1_0.75_192_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_192_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mobilenet_v1_0.25_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_224/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+efficientdet/lite0/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite0/detection/metadata/1?lite-format=tflite$EfficientDet-Lite0 Object detection model (EfficientNet-Lite0 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite0/detection/metadata)
+efficientnet/lite0/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite0/int8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite0/int8)
+mobilenet_v1_0.25_128_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_128_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+yolo-v5-tflite$https://tfhub.dev/neso613/lite-model/yolo-v5-tflite/tflite_model/1?lite-format=tflite$[YOLOv5](https://docs.ultralytics.com/) is a family of object detection architectures and models pretrained on the [COCO dataset](https://cocodataset.org/#home). TFLite (yolo-v5-tflite/tflite_model)
+movinet/a1/stream/kinetics-600/classification$https://tfhub.dev/tensorflow/lite-model/movinet/a1/stream/kinetics-600/classification/tflite/int8/1?lite-format=tflite$MoViNets (Mobile Video Networks) for efficient video classification with MoViNet-A1-Stream. TFLite (movinet/a1/stream/kinetics-600/classification/tflite/int8)
+efficientnet/lite4/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite4/int8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite4/int8)
+mobilebert/int8$https://tfhub.dev/iree/lite-model/mobilebert/int8/1?lite-format=tflite$MobileBert trained on Squad 1.1 and quantized using post-training quantization. TFLite (mobilebert/int8)
+mnasnet_1.0_192$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_192/1/default/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, default)
+cartoongan$https://tfhub.dev/sayakpaul/lite-model/cartoongan/int8/1?lite-format=tflite$CartoonGAN model to cartoonize a given image. TFLite (cartoongan/int8)
+edgetpu/vision/mobilenet-edgetpu-v2/l$https://tfhub.dev/google/lite-model/edgetpu/vision/mobilenet-edgetpu-v2/l/1?lite-format=tflite$MobileNet-EdgeTPU-v2 is a set of image classification models that are optimized
+for Pixel 6. TFLite (edgetpu/vision/mobilenet-edgetpu-v2/l)
+magenta/arbitrary-image-stylization-v1-256$https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/fp16/prediction/1?lite-format=tflite$Fast arbitrary image style transfer. TFLite (magenta/arbitrary-image-stylization-v1-256/fp16/prediction)
+ssd_mobilenet_v2_100/int8$https://tfhub.dev/iree/lite-model/ssd_mobilenet_v2_100/int8/default/1?lite-format=tflite$Mobilenet V2 with SSDLite head trained on COCO 2017, in `int8`. TFLite (ssd_mobilenet_v2_100/int8/default)
+yolo-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/yolo-cppe5-lite/fp16/1?lite-format=tflite$The YOLO model (with DarkNet 53 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (yolo-cppe5-lite/fp16)
+melgan$https://tfhub.dev/tulasiram58827/lite-model/melgan/float16/1?lite-format=tflite$MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis TFLite (melgan/float16)
+deeplabv3-mobilenetv2-int8$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv2-int8/1/default/1?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+magenta/arbitrary-image-stylization-v1-256$https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/int8/prediction/1?lite-format=tflite$Fast arbitrary image style transfer. TFLite (magenta/arbitrary-image-stylization-v1-256/int8/prediction)
+mnasnet_1.0_128$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_128/1/metadata/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, metadata)
+mirnet-fixed$https://tfhub.dev/sayakpaul/lite-model/mirnet-fixed/dr/1?lite-format=tflite$MIRNet model to enhance a low-light image. TFLite (mirnet-fixed/dr)
+mobilenet_v1_100_224/uint8$https://tfhub.dev/iree/lite-model/mobilenet_v1_100_224/uint8/1?lite-format=tflite$Mobilenet V1 trained on Imagenet. TFLite (mobilenet_v1_100_224/uint8)
+inception_v3_quant$https://tfhub.dev/tensorflow/lite-model/inception_v3_quant/1/metadata/1?lite-format=tflite$Image classification model based on Inception v3. TFLite (v1, metadata)
+mnasnet_0.75_224$https://tfhub.dev/tensorflow/lite-model/mnasnet_0.75_224/1/metadata/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, metadata)
+east-text-detector$https://tfhub.dev/sayakpaul/lite-model/east-text-detector/int8/2?lite-format=tflite$EAST model for text detection from natural scenes. TFLite (east-text-detector/int8)
+movenet/singlepose/lightning$https://tfhub.dev/google/lite-model/movenet/singlepose/lightning/3?lite-format=tflite$A convolutional neural network model that runs on RGB images and predicts human
+joint locations of a single person. The model is designed to be run in the
+browser using Tensorflow.js or on devices using TF Lite in real-time, targeting
+movement/fitness activities. This variant: MoveNet.SinglePose.Lightning is a
+lower capacity model (compared to MoveNet.SinglePose.Thunder) that can run
+>50FPS on most modern laptops while achieving good performance. TFLite (movenet/singlepose/lightning)
+nonsemantic-speech-benchmark/trill-distilled$https://tfhub.dev/google/lite-model/nonsemantic-speech-benchmark/trill-distilled/1?lite-format=tflite$A distilled version of TRILL presented in "Towards Learning a Universal Non-Semantic Representation of Speech".
+It exceeds state-of-the-art performance on a number of transfer learning tasks
+drawn from the non-semantic speech domain (speech emotion recognition, language
+identification, etc). It is trained on publicly-available AudioSet. TFLite (nonsemantic-speech-benchmark/trill-distilled)
+imagenet/mobilenet_v3_large_100_224/feature_vector$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_large_100_224/feature_vector/5/metadata/1?lite-format=tflite$Feature vectors of images with MobileNet V3 large(depth multiplier 1.00) trained on ImageNet (ILSVRC-2012-CLS). TFLite (v5, metadata)
+movinet/a2/stream/kinetics-600/classification$https://tfhub.dev/tensorflow/lite-model/movinet/a2/stream/kinetics-600/classification/tflite/int8/1?lite-format=tflite$MoViNets (Mobile Video Networks) for efficient video classification with MoViNet-A2-Stream. TFLite (movinet/a2/stream/kinetics-600/classification/tflite/int8)
+movenet/singlepose/thunder$https://tfhub.dev/google/lite-model/movenet/singlepose/thunder/tflite/float16/4?lite-format=tflite$A convolutional neural network model that runs on RGB images and predicts human
+joint locations of a single person. The model is designed to be run in the
+browser using Tensorflow.js or on devices using TF Lite in real-time, targeting
+movement/fitness activities. This variant: MoveNet.SinglePose.Thunder is a
+higher capacity model (compared to MoveNet.SinglePose.Lightning) that performs
+better prediction quality while still achieving real-time (>30FPS) speed.
+Naturally, thunder will lag behind the lightning, but it will pack a punch. TFLite (movenet/singlepose/thunder/tflite/float16)
+ssd_mobilenet_v1_100_320/fp32$https://tfhub.dev/iree/lite-model/ssd_mobilenet_v1_100_320/fp32/default/1?lite-format=tflite$Mobilenet V1 with SSDLite head trained on COCO 2017, in `fp32`. TFLite (ssd_mobilenet_v1_100_320/fp32/default)
+nasnet/mobile$https://tfhub.dev/tensorflow/lite-model/nasnet/mobile/1/default/1?lite-format=tflite$Image classification model based on NASNet-A. TFLite (v1, default)
+deeplabv3-mobilenetv2-ade20k$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv2-ade20k/1/default/2?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+resnet_v2_101$https://tfhub.dev/tensorflow/lite-model/resnet_v2_101/1/default/1?lite-format=tflite$Image classification model based on ResNet V2. TFLite (v1, default)
+inception_v3$https://tfhub.dev/tensorflow/lite-model/inception_v3/1/metadata/1?lite-format=tflite$Image classification model based on Inception v3. TFLite (v1, metadata)
+faster-rcnn-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/faster-rcnn-cppe5-lite/fp16/1?lite-format=tflite$The Faster RCNN model (with ResNet 101 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (faster-rcnn-cppe5-lite/fp16)
+albert_lite_base$https://tfhub.dev/tensorflow/lite-model/albert_lite_base/squadv1/metadata/1?lite-format=tflite$ALBERT is "A Lite" version of BERT with greatly reduced number of parameters.
+This is a TFLite compatible version. It can be fine-tuned for downstream tasks
+and converted to TFLite models TFLite (albert_lite_base/squadv1/metadata)
+efficientdet/lite4/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite4/detection/metadata/2?lite-format=tflite$EfficientDet-Lite4 Object detection model (EfficientNet-Lite4 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite4/detection/metadata)
+mobilenetv2-coco$https://tfhub.dev/sayakpaul/lite-model/mobilenetv2-coco/int8/1?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (mobilenetv2-coco/int8)
+albert_lite_base$https://tfhub.dev/tensorflow/lite-model/albert_lite_base/squadv1/1?lite-format=tflite$ALBERT is "A Lite" version of BERT with greatly reduced number of parameters.
+This is a TFLite compatible version. It can be fine-tuned for downstream tasks
+and converted to TFLite models TFLite (albert_lite_base/squadv1)
+imagenet/mobilenet_v3_large_075_224/classification$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_large_075_224/classification/5/metadata/1?lite-format=tflite$Imagenet (ILSVRC-2012-CLS) classification with MobileNet V3 large (depth multiplier 0.75). TFLite (v5, metadata)
+mobilebert/fp32$https://tfhub.dev/iree/lite-model/mobilebert/fp32/1?lite-format=tflite$MobileBert trained on Squad 1.1 TFLite (mobilebert/fp32)
+regnety400mf_feature_extractor$https://tfhub.dev/adityakane2001/lite-model/regnety400mf_feature_extractor/1?lite-format=tflite$RegNetY 400MF feature extractor pretrained on ImageNet-1k. TFLite (regnety400mf_feature_extractor)
+regnety800mf_classification$https://tfhub.dev/adityakane2001/lite-model/regnety800mf_classification/1?lite-format=tflite$RegNetY 800MF image classifier pretrained on ImageNet-1k. TFLite (regnety800mf_classification)
+mobilebert_edgetpu_s/int8$https://tfhub.dev/iree/lite-model/mobilebert_edgetpu_s/int8/1?lite-format=tflite$MobileBert EdgeTPU Small trained on Squad 1.1 TFLite (mobilebert_edgetpu_s/int8)
+movenet/singlepose/thunder$https://tfhub.dev/google/lite-model/movenet/singlepose/thunder/tflite/int8/4?lite-format=tflite$A convolutional neural network model that runs on RGB images and predicts human
+joint locations of a single person. The model is designed to be run in the
+browser using Tensorflow.js or on devices using TF Lite in real-time, targeting
+movement/fitness activities. This variant: MoveNet.SinglePose.Thunder is a
+higher capacity model (compared to MoveNet.SinglePose.Lightning) that performs
+better prediction quality while still achieving real-time (>30FPS) speed.
+Naturally, thunder will lag behind the lightning, but it will pack a punch. TFLite (movenet/singlepose/thunder/tflite/int8)
+german-mbmelgan$https://tfhub.dev/monatis/lite-model/german-mbmelgan/lite/1?lite-format=tflite$German Multi-band MelGAN as described in [1]. TFLite (german-mbmelgan/lite)
+efficientdet/lite3/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite3/detection/default/1?lite-format=tflite$EfficientDet-Lite3 Object detection model (EfficientNet-Lite3 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite3/detection/default)
+mnasnet_0.75_224$https://tfhub.dev/tensorflow/lite-model/mnasnet_0.75_224/1/default/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, default)
+mobilenetv2-dm05-coco$https://tfhub.dev/sayakpaul/lite-model/mobilenetv2-dm05-coco/fp16/1?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (mobilenetv2-dm05-coco/fp16)
+inception_v1_quant$https://tfhub.dev/tensorflow/lite-model/inception_v1_quant/1/metadata/1?lite-format=tflite$Image classification model based on Inception v1. TFLite (v1, metadata)
+ssd_spaghettinet_edgetpu_large_320/fp32$https://tfhub.dev/iree/lite-model/ssd_spaghettinet_edgetpu_large_320/fp32/default/1?lite-format=tflite$Spaghettinet EdgeTPU Large trained on COCO 2017, in `fp32`. TFLite (ssd_spaghettinet_edgetpu_large_320/fp32/default)
+mobilenet_v1_0.75_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_224/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+efficientnet/lite4/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite4/fp32/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite4/fp32)
+efficientdet/lite4/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite4/detection/default/2?lite-format=tflite$EfficientDet-Lite4 Object detection model (EfficientNet-Lite4 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite4/detection/default)
+mobilenet_v1_0.75_192_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_192_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+arbitrary-image-stylization-inceptionv3$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/transfer/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3/dr/transfer)
+mobilenet_v1_0.25_128$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_128/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+nasnet/large$https://tfhub.dev/tensorflow/lite-model/nasnet/large/1/metadata/1?lite-format=tflite$Image classification model based on NASNet-A. TFLite (v1, metadata)
+aiy/vision/classifier/insects_V1$https://tfhub.dev/google/lite-model/aiy/vision/classifier/insects_V1/3?lite-format=tflite$Mobile insect classification model. TFLite (aiy/vision/classifier/insects_V1)
+edgetpu/vision/deeplab-edgetpu/default_argmax/s$https://tfhub.dev/google/lite-model/edgetpu/vision/deeplab-edgetpu/default_argmax/s/1?lite-format=tflite$Deeplab-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6. TFLite (edgetpu/vision/deeplab-edgetpu/default_argmax/s)
+arbitrary-image-stylization-inceptionv3$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/int8/transfer/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3/int8/transfer)
+mobilenet_v1_1.0_192_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_192_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+imagenet/mobilenet_v3_large_075_224/feature_vector$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_large_075_224/feature_vector/5/default/1?lite-format=tflite$Feature vectors of images with MobileNet V3 large(depth multiplier 0.75) trained on ImageNet (ILSVRC-2012-CLS). TFLite (v5, default)
+craft-text-detector$https://tfhub.dev/tulasiram58827/lite-model/craft-text-detector/float16/1?lite-format=tflite$CRAFT Model for text detection from natural scenes or documents. TFLite (craft-text-detector/float16)
+parallel-wavegan$https://tfhub.dev/tulasiram58827/lite-model/parallel-wavegan/dr/1?lite-format=tflite$Parallel WaveGAN: A FAST WAVEFORM GENERATION MODEL BASED ON GENERATIVE ADVERSARIAL NETWORKS WITH MULTI-RESOLUTION SPECTROGRAM TFLite (parallel-wavegan/dr)
+imagenet/mobilenet_v3_large_075_224/classification$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_large_075_224/classification/5/default/1?lite-format=tflite$Imagenet (ILSVRC-2012-CLS) classification with MobileNet V3 large (depth multiplier 0.75). TFLite (v5, default)
+arbitrary-image-stylization-inceptionv3-dynamic-shapes$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3-dynamic-shapes/dr/transfer/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3-dynamic-shapes/dr/transfer)
+edgetpu/vision/autoseg-edgetpu/fused_argmax/xs$https://tfhub.dev/google/lite-model/edgetpu/vision/autoseg-edgetpu/fused_argmax/xs/1?lite-format=tflite$Autoseg-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6 leveraging neural architecture search algorithms. TFLite (edgetpu/vision/autoseg-edgetpu/fused_argmax/xs)
+american-sign-language$https://tfhub.dev/sayannath/lite-model/american-sign-language/1?lite-format=tflite$The American Sign Language Classification model can classify the images based on the american sign language alphabet. The model can handle upto 29 classes from A to Z and Space, Delete and Nothing as well. TFLite (american-sign-language)
+inception_v4$https://tfhub.dev/tensorflow/lite-model/inception_v4/1/default/1?lite-format=tflite$Image classification model based on Inception v4. TFLite (v1, default)
+fsaf-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/fsaf-cppe5-lite/fp16/1?lite-format=tflite$The FCOS model (with ResNet 101 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (fsaf-cppe5-lite/fp16)
+mosaic/mobilenetmultiavgseg$https://tfhub.dev/google/lite-model/mosaic/mobilenetmultiavgseg/1?lite-format=tflite$MOSAIC is a neural network architecture for efficient and accurate semantic
+image segmentation on mobile devices. TFLite (mosaic/mobilenetmultiavgseg)
+efficientdet/lite1/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite1/detection/default/1?lite-format=tflite$EfficientDet-Lite1 Object detection model (EfficientNet-Lite1 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite1/detection/default)
+nonsemantic-speech-benchmark/frill$https://tfhub.dev/google/lite-model/nonsemantic-speech-benchmark/frill/1?lite-format=tflite$FRILL is a non-semantic speech embedding model presented in "FRILL: A Non-Semantic Speech Embedding for Mobile Devices". It is fast enough to run in real-time on a mobile device and exhibits minimal performance degradation on a benchmark of non-semantic speech tasks. It is 32x faster on a Pixel 1 smartphone and 40% the size of TRILL, with an average decrease in accuracy of only 2%. To our knowledge, FRILL is the highest-quality non-semantic embedding designed for use on mobile devices. TFLite (nonsemantic-speech-benchmark/frill)
+on_device_vision/classifier/landmarks_classifier_north_america_V1$https://tfhub.dev/google/lite-model/on_device_vision/classifier/landmarks_classifier_north_america_V1/1?lite-format=tflite$Landmark recognition model. Tuned for North America. TFLite (on_device_vision/classifier/landmarks_classifier_north_america_V1)
+fsaf-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/fsaf-cppe5-lite/default/1?lite-format=tflite$The FCOS model (with ResNet 101 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (fsaf-cppe5-lite/default)
+aiy/vision/classifier/food_V1$https://tfhub.dev/google/lite-model/aiy/vision/classifier/food_V1/1?lite-format=tflite$Food classification model. TFLite (aiy/vision/classifier/food_V1)
+mobilenet_v1_1.0_160_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_160_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+imagenet/mobilenet_v3_small_075_224/classification$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_small_075_224/classification/5/default/1?lite-format=tflite$Imagenet (ILSVRC-2012-CLS) classification with MobileNet V3 small (depth multiplier 0.75). TFLite (v5, default)
+mobilenet_v1_0.50_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_224_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v1_0.75_192$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_192/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+inception_v2_quant$https://tfhub.dev/tensorflow/lite-model/inception_v2_quant/1/default/1?lite-format=tflite$Image classification model based on Inception v2. TFLite (v1, default)
+imagenet/mobilenet_v3_large_100_224/classification$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_large_100_224/classification/5/default/1?lite-format=tflite$Imagenet (ILSVRC-2012-CLS) classification with MobileNet V3 large (depth multiplier 1.00). TFLite (v5, default)
+on_device_vision/classifier/landmarks_classifier_asia_V1$https://tfhub.dev/google/lite-model/on_device_vision/classifier/landmarks_classifier_asia_V1/1?lite-format=tflite$Landmark recognition model. Tuned for Asia. TFLite (on_device_vision/classifier/landmarks_classifier_asia_V1)
+inception_v3_quant$https://tfhub.dev/tensorflow/lite-model/inception_v3_quant/1/default/1?lite-format=tflite$Image classification model based on Inception v3. TFLite (v1, default)
+squeezenet$https://tfhub.dev/tensorflow/lite-model/squeezenet/1/default/1?lite-format=tflite$Image classification model based on SqueezeNet. TFLite (v1, default)
+mobilenet_v3_large_100_224/fp32$https://tfhub.dev/iree/lite-model/mobilenet_v3_large_100_224/fp32/1?lite-format=tflite$Mobilenet V3 trained on Imagenet. TFLite (mobilenet_v3_large_100_224/fp32)
+tutorials/spam-detection$https://tfhub.dev/tensorflow/lite-model/tutorials/spam-detection/tflite/1?lite-format=tflite$This is a model from the Spam Detection tutorial TFLite (tutorials/spam-detection/tflite)
+midas/v2_1_small$https://tfhub.dev/intel/lite-model/midas/v2_1_small/1/lite/1?lite-format=tflite$Mobile convolutional neural network for monocular depth estimation from a single RGB image. TFLite (v1, lite)
+universal-sentence-encoder-qa-ondevice$https://tfhub.dev/google/lite-model/universal-sentence-encoder-qa-ondevice/1?lite-format=tflite$Greater-than-word length text encoder for on-device question answer retrieval. TFLite (universal-sentence-encoder-qa-ondevice)
+mobilebert$https://tfhub.dev/tensorflow/lite-model/mobilebert/1/metadata/1?lite-format=tflite$Mobile BERT Q&A model. TFLite (v1, metadata)
+imagenet/mobilenet_v3_small_100_224/classification$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_small_100_224/classification/5/metadata/1?lite-format=tflite$Imagenet (ILSVRC-2012-CLS) classification with MobileNet V3 small (depth multiplier 1.00). TFLite (v5, metadata)
+movenet/multipose/lightning$https://tfhub.dev/google/lite-model/movenet/multipose/lightning/tflite/float16/1?lite-format=tflite$A convolutional neural network model that runs on RGB images and predicts human
+joint locations of people in the image frame. The main differentiator between
+this MoveNet.MultiPose and its precedent, MoveNet.SinglePose model, is that
+this model is able to detect multiple people in the image frame at the same time
+while still achieving real-time speed. The model was designed to be run in the
+browser using TensorFlow.js or on devices using TensorFlow Lite, targeting
+movement/fitness activities. The released variant “Lightning” can run at >30FPS
+on most modern laptops and detects up to 6 people simultaneously while
+achieving good performance. TFLite (movenet/multipose/lightning/tflite/float16)
+efficientnet/lite2/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite2/uint8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite2/uint8)
+movenet/singlepose/lightning$https://tfhub.dev/google/lite-model/movenet/singlepose/lightning/tflite/float16/4?lite-format=tflite$A convolutional neural network model that runs on RGB images and predicts human
+joint locations of a single person. The model is designed to be run in the
+browser using Tensorflow.js or on devices using TF Lite in real-time, targeting
+movement/fitness activities. This variant: MoveNet.SinglePose.Lightning is a
+lower capacity model (compared to MoveNet.SinglePose.Thunder) that can run
+>50FPS on most modern laptops while achieving good performance. TFLite (movenet/singlepose/lightning/tflite/float16)
+deeplabv3-mobilenetv2_dm05-float16$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv2_dm05-float16/1/default/2?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+spice$https://tfhub.dev/google/lite-model/spice/1?lite-format=tflite$A mobile-compatible pitch extraction model to recognize the dominant pitch in
+sung audio. Trained (in a self-supervised way) on the MIR-1k dataset. TFLite (spice)
+deeplabv3-mobilenetv2-float16$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv2-float16/1/default/1?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+mobilenet_v3_large_100_224/uint8$https://tfhub.dev/iree/lite-model/mobilenet_v3_large_100_224/uint8/1?lite-format=tflite$Mobilenet V3 trained on Imagenet. TFLite (mobilenet_v3_large_100_224/uint8)
+arbitrary-image-stylization-inceptionv3-dynamic-shapes$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3-dynamic-shapes/int8/predict/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3-dynamic-shapes/int8/predict)
+mobilenet_v1_1.0_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_224/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mobilenet_v1_1.0_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_224_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+movenet/singlepose/lightning$https://tfhub.dev/google/lite-model/movenet/singlepose/lightning/tflite/int8/4?lite-format=tflite$A convolutional neural network model that runs on RGB images and predicts human
+joint locations of a single person. The model is designed to be run in the
+browser using Tensorflow.js or on devices using TF Lite in real-time, targeting
+movement/fitness activities. This variant: MoveNet.SinglePose.Lightning is a
+lower capacity model (compared to MoveNet.SinglePose.Thunder) that can run
+>50FPS on most modern laptops while achieving good performance. TFLite (movenet/singlepose/lightning/tflite/int8)
+arbitrary-image-stylization-inceptionv3$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/fp16/predict/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3/fp16/predict)
+hifi-gan$https://tfhub.dev/tulasiram58827/lite-model/hifi-gan/float16/1?lite-format=tflite$HiFi-GAN: Generative Adversial Networks for Efficient and High Fidelity Speech Synthesis TFLite (hifi-gan/float16)
+nasnet/large$https://tfhub.dev/tensorflow/lite-model/nasnet/large/1/default/1?lite-format=tflite$Image classification model based on NASNet-A. TFLite (v1, default)
+posenet/mobilenet/float/075$https://tfhub.dev/tensorflow/lite-model/posenet/mobilenet/float/075/1/metadata/1?lite-format=tflite$PoseNet model for pose estimation. TFLite (v1, metadata)
+efficientnet/lite3/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite3/uint8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite3/uint8)
+tridentnet-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/tridentnet-cppe5-lite/fp16/1?lite-format=tflite$The TridentNet model (with ResNet 50 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (tridentnet-cppe5-lite/fp16)
+yamnet$https://tfhub.dev/google/lite-model/yamnet/tflite/1?lite-format=tflite$An audio event classifier trained on the AudioSet dataset to predict audio events from the AudioSet ontology. TFLite (yamnet/tflite)
+mobilenetv2-dm05-coco$https://tfhub.dev/sayakpaul/lite-model/mobilenetv2-dm05-coco/dr/1?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (mobilenetv2-dm05-coco/dr)
+regnety400mf_classification$https://tfhub.dev/adityakane2001/lite-model/regnety400mf_classification/1?lite-format=tflite$RegNetY 400MF image classifier pretrained on ImageNet-1k. TFLite (regnety400mf_classification)
+rosetta$https://tfhub.dev/tulasiram58827/lite-model/rosetta/dr/1?lite-format=tflite$TFLite Model of Rosetta Text Recognition(OCR) Module(ResNet+CTC). TFLite (rosetta/dr)
+seefood/segmenter/mobile_food_segmenter_V1$https://tfhub.dev/google/lite-model/seefood/segmenter/mobile_food_segmenter_V1/1?lite-format=tflite$Mobile food segmentation model. TFLite (seefood/segmenter/mobile_food_segmenter_V1)
+mobilebert_edgetpu_s/fp32$https://tfhub.dev/iree/lite-model/mobilebert_edgetpu_s/fp32/1?lite-format=tflite$MobileBert EdgeTPU Small trained on Squad 1.1 TFLite (mobilebert_edgetpu_s/fp32)
+zero-dce$https://tfhub.dev/sayannath/lite-model/zero-dce/1?lite-format=tflite$The Zero-DCE model can enhance low-light images. TFLite (zero-dce)
+mobilenet_v1_0.50_192$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_192/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+regnet-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/regnet-cppe5-lite/default/1?lite-format=tflite$The RegNet model (3.2 GF) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (regnet-cppe5-lite/default)
+ssd_mobilenet_v1_100_320/fp32$https://tfhub.dev/iree/lite-model/ssd_mobilenet_v1_100_320/fp32/nms/1?lite-format=tflite$Mobilenet V1 with SSDLite head trained on COCO 2017, in `fp32`. TFLite (ssd_mobilenet_v1_100_320/fp32/nms)
+mobilenet_v1_1.0_160$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_160/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mobilenet_v1_1.0_128$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_128/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+efficientdet/lite2/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite2/detection/metadata/1?lite-format=tflite$EfficientDet-Lite2 Object detection model (EfficientNet-Lite2 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite2/detection/metadata)
+imagenet/mobilenet_v3_small_100_224/classification$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_small_100_224/classification/5/default/1?lite-format=tflite$Imagenet (ILSVRC-2012-CLS) classification with MobileNet V3 small (depth multiplier 1.00). TFLite (v5, default)
+inception_v2_quant$https://tfhub.dev/tensorflow/lite-model/inception_v2_quant/1/metadata/1?lite-format=tflite$Image classification model based on Inception v2. TFLite (v1, metadata)
+movinet/a2/stream/kinetics-600/classification$https://tfhub.dev/tensorflow/lite-model/movinet/a2/stream/kinetics-600/classification/tflite/float16/2?lite-format=tflite$MoViNets (Mobile Video Networks) for efficient video classification with MoViNet-A2-Stream. TFLite (movinet/a2/stream/kinetics-600/classification/tflite/float16)
+melgan$https://tfhub.dev/tulasiram58827/lite-model/melgan/dr/1?lite-format=tflite$MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis TFLite (melgan/dr)
+mnasnet_1.0_224$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_224/1/metadata/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, metadata)
+keras-ocr$https://tfhub.dev/tulasiram58827/lite-model/keras-ocr/dr/2?lite-format=tflite$OCR Model created with CRNN architecture used to recognize text from image. TFLite (keras-ocr/dr)
+mobilenet_v1_1.0_128$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_128/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+efficientdet/lite3x/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite3x/detection/metadata/1?lite-format=tflite$EfficientDet-Lite3x Object detection model (EfficientNet-Lite3 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. EfficientDet-Lite3x model has the same backbone
+(EfficientNet-Lite3) with EfficientDet-Lite3 model, while have bigger input
+image size and different BiFPN feature extractor. Thus EfficientDet-Lite3x can
+achieve better performance with the larger latency compared to
+EfficientDet-Lite3. This model is optimized for multiple Edge TPUs. TFLite (efficientdet/lite3x/detection/metadata)
+mobilenet_v1_1.0_160$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_160/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v1_0.75_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_224_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+edgetpu/nlp/mobilebert-edgetpu/m$https://tfhub.dev/google/lite-model/edgetpu/nlp/mobilebert-edgetpu/m/1?lite-format=tflite$MobileBert-EdgeTPU is a set of language pretraining models that are optimized
+for Pixel 6. TFLite (edgetpu/nlp/mobilebert-edgetpu/m)
+mobilenetv2-dm05-coco$https://tfhub.dev/sayakpaul/lite-model/mobilenetv2-dm05-coco/int8/1?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (mobilenetv2-dm05-coco/int8)
+object_detection/mobile_object_localizer_v1$https://tfhub.dev/google/lite-model/object_detection/mobile_object_localizer_v1/1/default/1?lite-format=tflite$A class-agnostic mobile object detector. TFLite (v1, default)
+on_device_vision/classifier/popular_us_products_V1$https://tfhub.dev/google/lite-model/on_device_vision/classifier/popular_us_products_V1/1?lite-format=tflite$Mobile classification model for popular US products. TFLite (on_device_vision/classifier/popular_us_products_V1)
+mnasnet_1.0_128$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_128/1/default/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, default)
+mnasnet_1.3_224$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.3_224/1/default/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, default)
+nonsemantic-speech-benchmark/frill-nofrontend$https://tfhub.dev/google/lite-model/nonsemantic-speech-benchmark/frill-nofrontend/1?lite-format=tflite$FRILL is a non-semantic speech embedding model presented in "FRILL: A Non-Semantic Speech Embedding for Mobile Devices". It is fast enough to run in real-time on a mobile device and exhibits minimal performance degradation on a benchmark of non-semantic speech tasks. It is 32x faster on a Pixel 1 smartphone and 40% the size of TRILL, with an average decrease in accuracy of only 2%. To our knowledge, FRILL is the highest-quality non-semantic embedding designed for use on mobile devices. TFLite (nonsemantic-speech-benchmark/frill-nofrontend)
+efficientnet/lite1/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite1/int8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite1/int8)
+inception_v4_quant$https://tfhub.dev/tensorflow/lite-model/inception_v4_quant/1/metadata/1?lite-format=tflite$Image classification model based on Inception v4. TFLite (v1, metadata)
+efficientdet/lite2/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite2/detection/default/1?lite-format=tflite$EfficientDet-Lite2 Object detection model (EfficientNet-Lite2 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite2/detection/default)
+mnasnet_1.0_160$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_160/1/default/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, default)
+efficientdet/lite0/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite0/int8/1?lite-format=tflite$EfficientDet-Lite0 Object detection model (EfficientNet-Lite0 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite0/int8)
+edgetpu/vision/autoseg-edgetpu/default_argmax/s$https://tfhub.dev/google/lite-model/edgetpu/vision/autoseg-edgetpu/default_argmax/s/1?lite-format=tflite$Autoseg-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6 leveraging neural architecture search algorithms. TFLite (edgetpu/vision/autoseg-edgetpu/default_argmax/s)
+mobilenet_v1_0.25_192$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_192/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mnasnet_1.0_96$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_96/1/metadata/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, metadata)
+on_device_vision/classifier/landmarks_classifier_africa_V1$https://tfhub.dev/google/lite-model/on_device_vision/classifier/landmarks_classifier_africa_V1/1?lite-format=tflite$Landmark recognition model. Tuned for Africa. TFLite (on_device_vision/classifier/landmarks_classifier_africa_V1)
+deeplabv3-xception65$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-xception65/1/default/2?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+german-tacotron2$https://tfhub.dev/monatis/lite-model/german-tacotron2/lite/1?lite-format=tflite$German Tacotron 2 as described in [1]. TFLite (german-tacotron2/lite)
+mirnet-fixed$https://tfhub.dev/sayakpaul/lite-model/mirnet-fixed/integer/1?lite-format=tflite$MIRNet model to enhance a low-light image. TFLite (mirnet-fixed/integer)
+ssd_mobilenet_v1_100_320/uint8$https://tfhub.dev/iree/lite-model/ssd_mobilenet_v1_100_320/uint8/nms/1?lite-format=tflite$Mobilenet V1 with SSDLite head trained on COCO 2017, in `uint8`. TFLite (ssd_mobilenet_v1_100_320/uint8/nms)
+on_device_vision/classifier/popular_wine_V1$https://tfhub.dev/google/lite-model/on_device_vision/classifier/popular_wine_V1/1?lite-format=tflite$Mobile wine classification model. TFLite (on_device_vision/classifier/popular_wine_V1)
+ssd_mobilenet_v1$https://tfhub.dev/tensorflow/lite-model/ssd_mobilenet_v1/1/metadata/2?lite-format=tflite$Object detection model trained on the COCO dataset. TFLite (v1, metadata)
+mobilebert$https://tfhub.dev/tensorflow/lite-model/mobilebert/1/default/1?lite-format=tflite$Mobile BERT Q&A model. TFLite (v1, default)
+mobilenet_v1_0.50_160_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_160_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+edgetpu/nlp/mobilebert-edgetpu/s$https://tfhub.dev/google/lite-model/edgetpu/nlp/mobilebert-edgetpu/s/1?lite-format=tflite$MobileBert-EdgeTPU is a set of language pretraining models that are optimized
+for Pixel 6. TFLite (edgetpu/nlp/mobilebert-edgetpu/s)
+movinet/a0/stream/kinetics-600/classification$https://tfhub.dev/tensorflow/lite-model/movinet/a0/stream/kinetics-600/classification/tflite/float16/2?lite-format=tflite$MoViNets (Mobile Video Networks) for efficient video classification with MoViNet-A0-Stream. TFLite (movinet/a0/stream/kinetics-600/classification/tflite/float16)
+mobilenet_v2_1.0_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v2_1.0_224_quantized/1/metadata/1?lite-format=tflite$MobileNet V2 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+cropnet/classifier/cassava_disease_V1$https://tfhub.dev/google/lite-model/cropnet/classifier/cassava_disease_V1/1?lite-format=tflite$Cassava disease classification model TFLite (cropnet/classifier/cassava_disease_V1)
+deeplabv3-mobilenetv2_dm05$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv2_dm05/1/default/2?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+mobilenet_v1_0.50_128$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_128/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+ssd_mobilenet_v2_fpn_100/uint8$https://tfhub.dev/iree/lite-model/ssd_mobilenet_v2_fpn_100/uint8/default/1?lite-format=tflite$Mobilenet V2 with FPNLite head trained on COCO 2017, in `uint8`. TFLite (ssd_mobilenet_v2_fpn_100/uint8/default)
+on_device_vision/classifier/landmarks_classifier_oceania_antarctica_V1$https://tfhub.dev/google/lite-model/on_device_vision/classifier/landmarks_classifier_oceania_antarctica_V1/1?lite-format=tflite$Landmark recognition model. Tuned for Oceania and Antarctica. TFLite (on_device_vision/classifier/landmarks_classifier_oceania_antarctica_V1)
+mobilenet_v1_1.0_192$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_192/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v1_0.75_160$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_160/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+posenet/mobilenet/float/075$https://tfhub.dev/tensorflow/lite-model/posenet/mobilenet/float/075/1/default/1?lite-format=tflite$PoseNet model for pose estimation. TFLite (v1, default)
+densenet$https://tfhub.dev/tensorflow/lite-model/densenet/1/metadata/1?lite-format=tflite$Image classification model based on DenseNet. TFLite (v1, metadata)
+edgetpu/vision/deeplab-edgetpu/fused_argmax/m$https://tfhub.dev/google/lite-model/edgetpu/vision/deeplab-edgetpu/fused_argmax/m/1?lite-format=tflite$Deeplab-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6. TFLite (edgetpu/vision/deeplab-edgetpu/fused_argmax/m)
+mnasnet_1.0_160$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.0_160/1/metadata/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, metadata)
+efficientdet/lite3/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite3/detection/metadata/1?lite-format=tflite$EfficientDet-Lite3 Object detection model (EfficientNet-Lite3 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. TFLite (efficientdet/lite3/detection/metadata)
+mobilenet_v1_0.25_160$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_160/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+mobilenet_v1_0.75_128_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_128_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+efficientnet/lite0/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite0/fp32/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite0/fp32)
+imagenet/mobilenet_v3_small_075_224/feature_vector$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_small_075_224/feature_vector/5/default/1?lite-format=tflite$Feature vectors of images with MobileNet V3 small(depth multiplier 0.75) trained on ImageNet (ILSVRC-2012-CLS). TFLite (v5, default)
+boundless-quarter$https://tfhub.dev/sayakpaul/lite-model/boundless-quarter/fp16/1?lite-format=tflite$TFLite quantized GAN-model for image extrapolation. TFLite (boundless-quarter/fp16)
+deeplabv3-mobilenetv2_dm05-int8$https://tfhub.dev/sayakpaul/lite-model/deeplabv3-mobilenetv2_dm05-int8/1/default/2?lite-format=tflite$Lightweight deep learning model for semantic image segmentation. TFLite (v1, default)
+imagenet/mobilenet_v3_small_075_224/feature_vector$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_small_075_224/feature_vector/5/metadata/1?lite-format=tflite$Feature vectors of images with MobileNet V3 small(depth multiplier 0.75) trained on ImageNet (ILSVRC-2012-CLS). TFLite (v5, metadata)
+efficientdet/lite3x/detection$https://tfhub.dev/tensorflow/lite-model/efficientdet/lite3x/detection/default/1?lite-format=tflite$EfficientDet-Lite3x Object detection model (EfficientNet-Lite3 backbone with
+BiFPN feature extractor, shared box predictor and focal loss), trained on COCO
+2017 dataset, optimized for TFLite, designed for performance on mobile CPU, GPU,
+and EdgeTPU. EfficientDet-Lite3x model has the same backbone
+(EfficientNet-Lite3) with EfficientDet-Lite3 model, while have bigger input
+image size and different BiFPN feature extractor. Thus EfficientDet-Lite3x can
+achieve better performance with the larger latency compared to
+EfficientDet-Lite3. This model is optimized for multiple Edge TPUs. TFLite (efficientdet/lite3x/detection/default)
+on_device_vision/classifier/landmarks_classifier_south_america_V1$https://tfhub.dev/google/lite-model/on_device_vision/classifier/landmarks_classifier_south_america_V1/1?lite-format=tflite$Landmark recognition model. Tuned for South America. TFLite (on_device_vision/classifier/landmarks_classifier_south_america_V1)
+inception_v4$https://tfhub.dev/tensorflow/lite-model/inception_v4/1/metadata/1?lite-format=tflite$Image classification model based on Inception v4. TFLite (v1, metadata)
+mobilenet_v1_0.75_160_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_160_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+disease-classification$https://tfhub.dev/agripredict/lite-model/disease-classification/1?lite-format=tflite$Fine-grained image classification model for crop disease classification. TFLite (disease-classification)
+mobilenet_v1_0.50_160$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_160/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+efficientnet/lite1/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite1/fp32/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite1/fp32)
+arbitrary-image-stylization-inceptionv3$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/predict/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3/dr/predict)
+edgetpu/vision/autoseg-edgetpu/default_argmax/xs$https://tfhub.dev/google/lite-model/edgetpu/vision/autoseg-edgetpu/default_argmax/xs/1?lite-format=tflite$Autoseg-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6 leveraging neural architecture search algorithms. TFLite (edgetpu/vision/autoseg-edgetpu/default_argmax/xs)
+tridentnet-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/tridentnet-cppe5-lite/default/1?lite-format=tflite$The TridentNet model (with ResNet 50 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (tridentnet-cppe5-lite/default)
+mobilenet_v1_0.75_128$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_128/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+efficientnet/lite1/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite1/uint8/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite1/uint8)
+inception_v3$https://tfhub.dev/tensorflow/lite-model/inception_v3/1/default/1?lite-format=tflite$Image classification model based on Inception v3. TFLite (v1, default)
+hifi-gan$https://tfhub.dev/tulasiram58827/lite-model/hifi-gan/dr/1?lite-format=tflite$HiFi-GAN: Generative Adversial Networks for Efficient and High Fidelity Speech Synthesis TFLite (hifi-gan/dr)
+regnety600mf_feature_extractor$https://tfhub.dev/adityakane2001/lite-model/regnety600mf_feature_extractor/1?lite-format=tflite$RegNetY 600MF feature extractor pretrained on ImageNet-1k. TFLite (regnety600mf_feature_extractor)
+on_device_vision/classifier/landmarks_classifier_europe_V1$https://tfhub.dev/google/lite-model/on_device_vision/classifier/landmarks_classifier_europe_V1/1?lite-format=tflite$Landmark recognition model. Tuned for Europe. TFLite (on_device_vision/classifier/landmarks_classifier_europe_V1)
+mobilenet_v1_0.50_160$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_160/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v2_100_224/fp32$https://tfhub.dev/iree/lite-model/mobilenet_v2_100_224/fp32/1?lite-format=tflite$Mobilenet V2 trained on Imagenet. TFLite (mobilenet_v2_100_224/fp32)
+imagenet/mobilenet_v3_large_100_224/classification$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_large_100_224/classification/5/metadata/1?lite-format=tflite$Imagenet (ILSVRC-2012-CLS) classification with MobileNet V3 large (depth multiplier 1.00). TFLite (v5, metadata)
+mirnet-fixed$https://tfhub.dev/sayakpaul/lite-model/mirnet-fixed/fp16/1?lite-format=tflite$MIRNet model to enhance a low-light image. TFLite (mirnet-fixed/fp16)
+arbitrary-image-stylization-inceptionv3$https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/fp16/transfer/1?lite-format=tflite$Fast arbitrary image style transfer based on an InceptionV3 backbone. TFLite (arbitrary-image-stylization-inceptionv3/fp16/transfer)
+mobilenet_v1_0.25_160$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_160/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+vision/classifier/fungi_mobile_V1$https://tfhub.dev/svampeatlas/lite-model/vision/classifier/fungi_mobile_V1/1/default/1?lite-format=tflite$Mobile-compatible image classification model trained on Fungi dataset provided
+by the Danish Mycological Society. TFLite (v1, default)
+mnasnet_1.3_224$https://tfhub.dev/tensorflow/lite-model/mnasnet_1.3_224/1/metadata/1?lite-format=tflite$Image classification model created using Cloud AutoML. TFLite (v1, metadata)
+mobilenet_v1_0.25_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.25_224_quantized/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+mobilenet_v2_100_224/uint8$https://tfhub.dev/iree/lite-model/mobilenet_v2_100_224/uint8/1?lite-format=tflite$Mobilenet V2 trained on Imagenet. TFLite (mobilenet_v2_100_224/uint8)
+object_detection/mobile_object_labeler_v1$https://tfhub.dev/google/lite-model/object_detection/mobile_object_labeler_v1/1?lite-format=tflite$A mobile object labeler. TFLite (object_detection/mobile_object_labeler_v1)
+yolo-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/yolo-cppe5-lite/default/1?lite-format=tflite$The YOLO model (with DarkNet 53 backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (yolo-cppe5-lite/default)
+ssd_mobilenet_v1$https://tfhub.dev/tensorflow/lite-model/ssd_mobilenet_v1/1/default/1?lite-format=tflite$Object detection model trained on the COCO dataset. TFLite (v1, default)
+craft-text-detector$https://tfhub.dev/tulasiram58827/lite-model/craft-text-detector/dr/1?lite-format=tflite$CRAFT Model for text detection from natural scenes or documents. TFLite (craft-text-detector/dr)
+ssd_mobilenet_v2_100/fp32$https://tfhub.dev/iree/lite-model/ssd_mobilenet_v2_100/fp32/default/1?lite-format=tflite$Mobilenet V2 with SSDLite head trained on COCO 2017, in `fp32`. TFLite (ssd_mobilenet_v2_100/fp32/default)
+mobilenet_v2_1.0_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v2_1.0_224_quantized/1/default/1?lite-format=tflite$MobileNet V2 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+edgetpu/vision/deeplab-edgetpu/default_argmax/xs$https://tfhub.dev/google/lite-model/edgetpu/vision/deeplab-edgetpu/default_argmax/xs/1?lite-format=tflite$Deeplab-EdgeTPU is a set of semantic segmentation models that are optimized for
+Pixel 6. TFLite (edgetpu/vision/deeplab-edgetpu/default_argmax/xs)
+parallel-wavegan$https://tfhub.dev/tulasiram58827/lite-model/parallel-wavegan/float16/1?lite-format=tflite$Parallel WaveGAN: A FAST WAVEFORM GENERATION MODEL BASED ON GENERATIVE ADVERSARIAL NETWORKS WITH MULTI-RESOLUTION SPECTROGRAM TFLite (parallel-wavegan/float16)
+boundless-quarter$https://tfhub.dev/sayakpaul/lite-model/boundless-quarter/dr/1?lite-format=tflite$TFLite quantized GAN-model for image extrapolation. TFLite (boundless-quarter/dr)
+edgetpu/vision/mobilenet-edgetpu-v2/tiny$https://tfhub.dev/google/lite-model/edgetpu/vision/mobilenet-edgetpu-v2/tiny/1?lite-format=tflite$MobileNet-EdgeTPU-v2 is a set of image classification models that are optimized
+for Pixel 6. TFLite (edgetpu/vision/mobilenet-edgetpu-v2/tiny)
+mobilenet_v1_1.0_192_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_1.0_192_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+regnet-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/regnet-cppe5-lite/fp16/1?lite-format=tflite$The RegNet model (3.2 GF) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (regnet-cppe5-lite/fp16)
+imagenet/mobilenet_v3_small_100_224/feature_vector$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_small_100_224/feature_vector/5/metadata/1?lite-format=tflite$Feature vectors of images with MobileNet V3 small(depth multiplier 1.00) trained on ImageNet (ILSVRC-2012-CLS). TFLite (v5, metadata)
+mobilenet_v2_1.0_224$https://tfhub.dev/tensorflow/lite-model/mobilenet_v2_1.0_224/1/metadata/1?lite-format=tflite$MobileNet V2 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+movinet/a0/stream/kinetics-600/classification$https://tfhub.dev/tensorflow/lite-model/movinet/a0/stream/kinetics-600/classification/tflite/int8/1?lite-format=tflite$MoViNets (Mobile Video Networks) for efficient video classification with MoViNet-A0-Stream. TFLite (movinet/a0/stream/kinetics-600/classification/tflite/int8)
+regnety800mf_feature_extractor$https://tfhub.dev/adityakane2001/lite-model/regnety800mf_feature_extractor/1?lite-format=tflite$RegNetY 800MF feature extractor pretrained on ImageNet-1k. TFLite (regnety800mf_feature_extractor)
+image-scene$https://tfhub.dev/sayannath/lite-model/image-scene/1?lite-format=tflite$The Image Scene Classification model can classify the images based on the scene. This includes the following categories like Portrait, Group Portrait, Kids, Dogs, Cats, Macro, Food, Beach, Mountains, Waterfall, Snow, Landscape, Underwater, Architecture, Sunrise, Blue Sky, Overcast, Greenery, Autumn Plants, Flower, Night, Shot Stage, Fireworks, Candle light, Neon Lights, Indoor, Backlight, Text, QR Code and Monitor Screen TFLite (image-scene)
+mobilenet_v1_0.75_224_quantized$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.75_224_quantized/1/default/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, default)
+ssd-cppe5-lite$https://tfhub.dev/rishit-dagli/lite-model/ssd-cppe5-lite/default/1?lite-format=tflite$The SSD model (with MobileNet backbone) trained on the CPPE - 5 (Medical Personal Protective Equipment) dataset in TF Lite Format. TFLite (ssd-cppe5-lite/default)
+magenta/arbitrary-image-stylization-v1-256$https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/fp16/transfer/1?lite-format=tflite$Fast arbitrary image style transfer. TFLite (magenta/arbitrary-image-stylization-v1-256/fp16/transfer)
+nonsemantic-speech-benchmark/trill$https://tfhub.dev/google/lite-model/nonsemantic-speech-benchmark/trill/1?lite-format=tflite$The TRILL model presented in Towards Learning a Universal Non-Semantic Representation of Speech.
+It exceeds state-of-the-art performance on a number of transfer learning tasks
+drawn from the non-semantic speech domain (speech emotion recognition, language
+identification, etc). It is trained on publicly-available AudioSet. TFLite (nonsemantic-speech-benchmark/trill)
+efficientnet/lite2/classification$https://tfhub.dev/tensorflow/lite-model/efficientnet/lite2/fp32/2?lite-format=tflite$EfficientNet-Lite models, trained on Imagenet (ILSVRC-2012-CLS), optimized for
+TFLite, designed for performance on mobile CPU, GPU, and EdgeTPU. TFLite (efficientnet/lite2/fp32)
+mobilenet_v1_0.50_128$https://tfhub.dev/tensorflow/lite-model/mobilenet_v1_0.50_128/1/metadata/1?lite-format=tflite$MobileNet V1 is a family of neural network architectures for efficient on-device
+image classification, originally published by [1]. TFLite (v1, metadata)
+ssd_spaghettinet_edgetpu_large_320/uint8$https://tfhub.dev/iree/lite-model/ssd_spaghettinet_edgetpu_large_320/uint8/default/1?lite-format=tflite$Spaghettinet EdgeTPU Large trained on COCO 2017, in `uint8`. TFLite (ssd_spaghettinet_edgetpu_large_320/uint8/default)
+imagenet/mobilenet_v3_small_075_224/classification$https://tfhub.dev/google/lite-model/imagenet/mobilenet_v3_small_075_224/classification/5/metadata/1?lite-format=tflite$Imagenet (ILSVRC-2012-CLS) classification with MobileNet V3 small (depth multiplier 0.75). TFLite (v5, metadata)
+mobilenet_v3_small_100_224/fp32$https://tfhub.dev/iree/lite-model/mobilenet_v3_small_100_224/fp32/1?lite-format=tflite$Mobilenet V3 Small trained on Imagenet. TFLite (mobilenet_v3_small_100_224/fp32)

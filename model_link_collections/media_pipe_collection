@@ -1,0 +1,30 @@
+Face Detection Short-range model FP$https://storage.googleapis.com/mediapipe-assets/face_detection_short_range.tflite$best for faces within 2 meters from the camera
+Face Detection Short-range model INT$https://github.com/google/mediapipe/raw/master/mediapipe/examples/coral/models/face-detector-quantized_edgetpu.tflite$best for faces within 2 meters from the camera
+Face Detection Full-range model model FP dense$https://storage.googleapis.com/mediapipe-assets/face_detection_full_range.tflite$best for faces within 5 meters from the camera
+Face Detection Full-range model model FP sparse$https://storage.googleapis.com/mediapipe-assets/face_detection_full_range_sparse.tflite$best for faces within 5 meters from the camera
+Face Mesh Face landmark model$https://storage.googleapis.com/mediapipe-assets/face_landmark.tflite$
+Face Mesh Face landmark model w/ attention (aka Attention Mesh)$https://storage.googleapis.com/mediapipe-assets/face_landmark_with_attention.tflite$
+Iris landmark model$https://storage.googleapis.com/mediapipe-assets/iris_landmark.tflite$
+Hands Palm detection model lite$https://storage.googleapis.com/mediapipe-assets/palm_detection_lite.tflite$
+Hands Palm detection model full$https://storage.googleapis.com/mediapipe-assets/palm_detection_full.tflite$
+Hands Hand landmark model lite$https://storage.googleapis.com/mediapipe-assets/hand_landmark_lite.tflite$
+Hands Hand landmark model full$https://storage.googleapis.com/mediapipe-assets/hand_landmark_full.tflite$
+Pose detection model$https://storage.googleapis.com/mediapipe-assets/pose_detection.tflite$
+Pose landmark model lite$https://storage.googleapis.com/mediapipe-assets/pose_landmark_lite.tflite$
+Pose landmark model full$https://storage.googleapis.com/mediapipe-assets/pose_landmark_full.tflite$
+Pose landmark model heavy$https://storage.googleapis.com/mediapipe-assets/pose_landmark_heavy.tflite$
+Holistic Hand recrop model$https://storage.googleapis.com/mediapipe-assets/hand_recrop.tflite$
+Selfie Segmentation general$https://storage.googleapis.com/mediapipe-assets/selfie_segmentation.tflite$
+Selfie Segmentation landscape$https://storage.googleapis.com/mediapipe-assets/selfie_segmentation_landscape.tflite$
+Hair Segmentation$https://storage.googleapis.com/mediapipe-assets/hair_segmentation.tflite$
+Object Detection FP$https://storage.googleapis.com/mediapipe-assets/ssdlite_object_detection.tflite$
+Object Detection INT$https://github.com/google/mediapipe/raw/master/mediapipe/examples/coral/models/object-detector-quantized_edgetpu.tflite$
+Objectron shoes$https://storage.googleapis.com/mediapipe-assets/object_detection_3d_sneakers.tflite$
+Objectron chairs$https://storage.googleapis.com/mediapipe-assets/object_detection_3d_chair.tflite$
+Objectron cameras$https://storage.googleapis.com/mediapipe-assets/object_detection_3d_camera.tflite$
+Objectron cups$https://storage.googleapis.com/mediapipe-assets/object_detection_3d_cup.tflite$
+Objectron Single-stage model for shoes$https://storage.googleapis.com/mediapipe-assets/object_detection_3d_sneakers_1stage.tflite$
+Objectron Single-stage model for chairs$https://storage.googleapis.com/mediapipe-assets/object_detection_3d_chair_1stage.tflite$
+TFLite model for up to 200 keypoints$https://storage.googleapis.com/mediapipe-assets/knift_float.tflite$
+TFLite model for up to 400 keypoints$https://storage.googleapis.com/mediapipe-assets/knift_float_400.tflite$
+TFLite model for up to 1000 keypoints$https://storage.googleapis.com/mediapipe-assets/knift_float_1k.tflite$
