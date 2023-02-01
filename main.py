@@ -1,3 +1,5 @@
+from collections import defaultdict
+from tensorflow.lite.tools import flatbuffer_utils as utils
 from openvino.runtime import Core
 import wget
 import sys
@@ -22,13 +24,54 @@ def read_from_log_file(file_name: str):
     print(len(models), "models collected from", file_name)
     return models
 
-def per_model_test(model: str, core: Core):
+TT = utils.schema_fb.TensorType
+tensor_types = {getattr(TT, name): name for name in dir(TT) if not name.startswith("_")}
+
+def get_original_types(path: str):
+    result = defaultdict(int)
     try:
-        model = core.read_model(model)
-        model.validate_nodes_and_infer_types()
-        return "OK"
+        model = utils.read_model(path)
+        buffers = model.buffers
+        subgraphs = model.subgraphs
+        assert len(subgraphs) == 1, subgraphs
+        tensors = subgraphs[0].tensors
+        for i, tensor in enumerate(tensors):
+            buffer = buffers[tensor.buffer].data
+            if buffer is None:
+                continue
+            quantization = tensor.quantization
+            type_name = tensor_types[tensor.type]
+            if quantization is not None and quantization.zeroPoint is not None:
+                type_name += '_quantized'
+            result[type_name] += 1
+        result = dict(result)
     except Exception as e:
-        return " ".join(str(e).strip().split('\n'))
+        result = str(e)
+    return result
+
+
+def per_model_test(model_path: str, core: Core):
+    status = None
+    original_types = None
+    ov_types = None
+    num_transposes = None
+    try:
+        model = core.read_model(model_path)
+        model.validate_nodes_and_infer_types()
+        num_transposes = 0
+        ov_types = defaultdict(int)
+        for op in model.get_ops():
+            if op.type_info.name == "Transpose":
+                num_transposes += 1
+            if op.type_info.name == "Constant":
+                ov_types[str(op.output(0).element_type)] += 1
+        status = "OK"
+        original_types = get_original_types(model_path)
+        ov_types = dict(ov_types)
+    except Exception as e:
+        status = " ".join(str(e).strip().split('\n'))
+    return status, original_types, ov_types, num_transposes
+
 
 if __name__ == "__main__":
     models = []
@@ -41,16 +84,41 @@ if __name__ == "__main__":
         os.makedirs(DIRECTORY)
     results = dict()
     core = Core()
+
+    pretty_head = ["Name", "Link", "Status", "#Transposes", set(), set()]
     for name, link in models:
         print(name, link)
         model_path = wget.download(link, DIRECTORY, bar=bar_progress)
         results[(name, link)] = per_model_test(os.path.normpath(model_path), core)
-        if results[(name, link)] == "OK":
-            os.remove(model_path)
-        print(results[(name, link)])
+        curr_result = results[(name, link)]
 
+        # if curr_result[0] == "OK":
+        #     os.remove(model_path)
+        os.remove(model_path)
+        print()
+        print(curr_result)
+        if curr_result[1] is not None: #  original types
+            pretty_head[4].update(set(curr_result[1].keys()))
+        if curr_result[2] is not None: # ov types
+            pretty_head[5].update(set(curr_result[2].keys()))
+
+    full_picture = list()
     with open("tflite_read_test.dsv", "w+") as f:
-        for (name, link), value in results.items():
-            print(name, link, value)
-            f.write("$".join([name, link, value]) + "\n")
+        for (name, link), values in results.items():
+            print(name, link, values)
+            f.write("$".join([name, link, *map(str, values)]) + "\n")
+            line = [name, link, values[0], values[-1]]
+            # original types
+            for orig_type in pretty_head[4]:
+                line.append(values[1].get(orig_type, None) if values[1] is not None else None)
+            # ov types
+            for ov_type in pretty_head[5]:
+                line.append(values[2].get(ov_type, None) if values[2] is not None else None)
+            full_picture.append(line)
     print("Done")
+    with open("tflite_read_test_report.dsv", "w+") as f:
+        pretty_head[4] = "$".join(pretty_head[4])
+        pretty_head[5] = "$".join(pretty_head[5])
+        f.write("$".join(pretty_head) + "\n")
+        for line in full_picture:
+            f.write("$".join(map(str, line)) + "\n")
