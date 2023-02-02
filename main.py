@@ -33,17 +33,17 @@ def get_original_types(path: str):
         model = utils.read_model(path)
         buffers = model.buffers
         subgraphs = model.subgraphs
-        assert len(subgraphs) == 1, subgraphs
-        tensors = subgraphs[0].tensors
-        for i, tensor in enumerate(tensors):
-            buffer = buffers[tensor.buffer].data
-            if buffer is None:
-                continue
-            quantization = tensor.quantization
-            type_name = tensor_types[tensor.type]
-            if quantization is not None and quantization.zeroPoint is not None:
-                type_name += '_quantized'
-            result[type_name] += 1
+        for subgraph in subgraphs:
+            tensors = subgraph.tensors
+            for i, tensor in enumerate(tensors):
+                buffer = buffers[tensor.buffer].data
+                if buffer is None:
+                    continue
+                quantization = tensor.quantization
+                type_name = tensor_types[tensor.type]
+                if quantization is not None and quantization.zeroPoint is not None:
+                    type_name += '_quantized'
+                result[type_name] += 1
         result = dict(result)
     except Exception as e:
         result = str(e)
@@ -56,6 +56,7 @@ def per_model_test(model_path: str, core: Core):
     ov_types = None
     num_transposes = None
     try:
+        original_types = get_original_types(model_path)
         model = core.read_model(model_path)
         model.validate_nodes_and_infer_types()
         num_transposes = 0
@@ -66,7 +67,6 @@ def per_model_test(model_path: str, core: Core):
             if op.type_info.name == "Constant":
                 ov_types[str(op.output(0).element_type)] += 1
         status = "OK"
-        original_types = get_original_types(model_path)
         ov_types = dict(ov_types)
     except Exception as e:
         status = " ".join(str(e).strip().split('\n'))
